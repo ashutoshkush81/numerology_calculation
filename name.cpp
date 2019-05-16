@@ -1,3 +1,5 @@
+//calculation of numerology number of your name is called name number
+/* Your name number is the sum total value of all the individual alphabets’ numerical values.*/
 #include <bits/stdc++.h>
 using namespace std;
 #define lli long long int
