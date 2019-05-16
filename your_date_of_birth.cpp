@@ -27,7 +27,7 @@ cin.tie(NULL);
     int n = str.size();
     for(int i=0;i<n;i++)
     {
-    	if(str[i]-'0'>0 and str[i]-'0'<26)
+    	if(str[i]-'0'>=0 and str[i]-'0'<26)
     		v.push_back(str[i]-'0');
     }
 
