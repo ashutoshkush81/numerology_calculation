@@ -1,3 +1,6 @@
+//calculation of numerology number of your date of birth is also called the Life number or Life path number
+/*Life number is obtained by adding up all the numbers in your day,
+month, and the year, from your date of birth*/
 #include <bits/stdc++.h>
 using namespace std;
 #define lli long long int
