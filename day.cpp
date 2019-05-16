@@ -1,3 +1,5 @@
+/*Day Number is the sum value of the individual numbers in your birth day.
+Day Number is important as it defines your chief characteristics */
 #include <bits/stdc++.h>
 using namespace std;
 #define lli long long int
