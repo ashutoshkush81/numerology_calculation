@@ -28,8 +28,8 @@ void name(string str)
         else
             total +=arr[str[i]-'a'];
     }
-    cout<<"Your name size is : ";
-    cout<<total<<endl;
+//     cout<<"Your name size is : ";
+//     cout<<total<<endl;
 
     while(total > 9)
     {
@@ -74,8 +74,8 @@ void dob(string str)
         int total = 0;
         for(int i=0;i<n;i++)
             total += v[i];
-        cout<<"Your date of birth calculation is :";
-        cout<<total<<endl;
+//         cout<<"Your date of birth calculation is :";
+//         cout<<total<<endl;
 
         while(total > 9)
         {
@@ -119,11 +119,11 @@ void day(string str)
 
     else
     {
-    	cout<<"Your day calculation is : ";
+//     	cout<<"Your day calculation is : ";
         int total = 0;
         for(int i=0;i<2;i++)
             total += v[i];
-        cout<<total<<endl;
+//         cout<<total<<endl;
 
         while(total > 9)
         {
